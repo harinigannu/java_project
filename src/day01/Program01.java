@@ -3,7 +3,6 @@ package day01;
 public class Program01 {
 
 	public static void fun() {
-		// TODO Auto-generated method stub
 		int x = 102345;
 		char y = 'a';
 		boolean a = true;

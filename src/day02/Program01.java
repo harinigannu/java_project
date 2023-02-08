@@ -3,7 +3,6 @@ package day02;
 public class Program01 {
 
 	public static int fun() {
-		// TODO Auto-generated method stub
 		int a = 15;
 		System.out.println(a*a);
 		return a*a;

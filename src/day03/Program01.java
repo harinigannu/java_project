@@ -1,10 +1,19 @@
 package day03;
 
 public class Program01 {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	
+	public void addMethod(int x, int y) {
+		System.out.println(x+y);
+		
+	}
+	public static void subMethod(int x, int y) {
+		System.out.println(x-y);
+		
+	}
+	public static void mulMethod(int x, int y) {
+		System.out.println(x*y);
+		
 	}
 
 }
+
