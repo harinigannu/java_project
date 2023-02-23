@@ -8,7 +8,7 @@ public class Program02 {
 		Scanner x= new Scanner(System.in);
 		System.out.println("Enter the Number:-  ");
 		int a=x.nextInt();
-
+		x.close();
 		System.out.println("Start Program...!");
 
 		if(a%2==0)
