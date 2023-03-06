@@ -1,7 +1,6 @@
 package day01;
 
 public class Program01 {
-
 	public static void fun() {
 		int x = 102345;
 		char y = 'a';
@@ -23,5 +22,4 @@ public class Program01 {
 		fun();
 
 	}
-
 }
